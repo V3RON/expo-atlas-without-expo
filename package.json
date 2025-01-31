@@ -1,0 +1,32 @@
+{
+  "sideEffects": false,
+  "name": "expo-atlas-without-expo",
+  "version": "1.0.0",
+  "description": "Supercharge your vanilla React Native apps with Expo Atlas metrics",
+  "keywords": [
+    "react-native",
+    "bundle",
+    "visualizer",
+    "explorer",
+    "expo",
+    "react",
+    "devtools"
+  ],
+  "main": "index.js",
+  "homepage": "https://github.com/v3ron/expo-atlas-without-expo#readme",
+  "bugs": {
+    "url": "https://github.com/v3ron/expo-atlas-without-expo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/v3ron/expo-atlas-without-expo"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "expo-atlas": "0.4.0"
+  },
+  "peerDependencies": {
+    "metro": "^0.79.0"
+  },
+  "author": "Szymon Chmal <szymon@chmal.it> (https://github.com/V3R0N)"
+}
