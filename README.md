@@ -32,11 +32,11 @@ This package allows you to use Expo Atlas in your vanilla React Native applicati
 ## 🚀 Installation
 
 ```bash
-npm install --save-dev expo-atlas-without-expo
+npm install --save-dev expo-atlas-without-expo expo-atlas
 # or
-yarn add -D expo-atlas-without-expo
+yarn add -D expo-atlas-without-expo expo-atlas
 # or
-pnpm add --save-dev expo-atlas-without-expo
+pnpm add --save-dev expo-atlas-without-expo expo-atlas
 ```
 
 ## 📖 Usage
