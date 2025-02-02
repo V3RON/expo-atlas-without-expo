@@ -1,7 +1,7 @@
 {
   "sideEffects": false,
   "name": "expo-atlas-without-expo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Supercharge your vanilla React Native apps with Expo Atlas metrics",
   "keywords": [
     "react-native",
